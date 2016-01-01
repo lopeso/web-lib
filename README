@@ -1,0 +1,12 @@
+#web-lib
+
+this intend to be a library with usefull tools for a web developer
+
+#front end frameworks you will find here:
+-Bootstrap
+-Materialize
+-Animate.css
+-Waypoints.js
+
+#back-end frameworks:
+-CodeIgniter
